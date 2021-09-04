@@ -1,0 +1,6 @@
+---
+layout: default
+title: Post 2
+---
+
+Some content 2 This license is for me Personal license keys are only available for individuals, if you are purchasing for a business or organization, please click below. Personal licenses are a once off purchase, and come with 3 years of updates. After 3 years, an upgrade will be required to receive further updates. One license key is all you need for all your computers and operating systems. License Keys are issued by Sublime HQ Pty Ltd, ABN 48 153 193 661, and covered by the End User License Agreement. Sublime HQ Pty Ltd is located in Sydney, Australia. Most designs go with the available defaults. Either using a format that doesn’t have these issues or, more frequently, letting the details slip. The information still gets across and every web site has a punch list of potential modifications that stretches to the horizon. So, I understand putting off finding a solution, but not having proper date formatting has always bugged me. While solving the issue for myself5, I decided to put together this post as a public reference as well. I don’t yet have the Ruby chops to contribute directly to Jekyll, but I can provide this reference to give back a little at least. not saved yet  oh oiu oiuo i ioi 
